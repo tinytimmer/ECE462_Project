@@ -4,10 +4,10 @@ module TwoBitBranchPredictor(
     input actual_outcome,           
     output reg prediction           
 );
-
+    integer i;
     reg [1:0] BHT [15:0];
     initial begin
-        integer i;
+        
         for (i = 0; i < 16; i = i + 1) begin
             BHT[i] = 2'b10; 
         end
