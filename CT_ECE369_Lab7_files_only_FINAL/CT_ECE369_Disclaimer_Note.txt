@@ -1,6 +1,0 @@
-Dsiclaimer:
-
-This project was done in FALL 2022 and recieved a 70% as the overall grade. Whether or not y'all still want to use these files as the foundation of this project thats all good to me. I hope this is similar to what y'all did in your ECE369 final project.
-
-Best,
-Carmen
